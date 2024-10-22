@@ -1,5 +1,7 @@
 package org.howard.edu.lsp.assignment5;
-
+/**
+ * A driver class to demonstrate the functionality of the IntegerSet class.
+ */
 public class IntegerSetDriver {
         public static void main(String[] args) {
             // Test basic operations
