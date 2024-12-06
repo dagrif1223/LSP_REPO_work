@@ -4,6 +4,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
+
 public class MathUtilsTest {
     // Source: https://www.tutorialspoint.com/junit/junit_using_assertion.htm
     private MathUtils mathUtils;

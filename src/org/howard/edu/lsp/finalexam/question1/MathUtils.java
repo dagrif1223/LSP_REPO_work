@@ -1,5 +1,6 @@
 package org.howard.edu.lsp.finalexam.question1;
 
+
 public class MathUtils {
     /**
      * Returns the factorial of a given non-negative integer.

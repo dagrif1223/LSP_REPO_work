@@ -1,5 +1,6 @@
 package org.howard.edu.lsp.finalexam.question2;
 
+
 import java.util.Random; /**
  * Concrete strategy using Java's built-in random number generator.
  */

@@ -1,5 +1,6 @@
 package org.howard.edu.lsp.finalexam.question2;
 
+
 // Sources: https://www.freecodecamp.org/news/a-beginners-guide-to-the-strategy-design-pattern/
 //          https://www.tutorialspoint.com/java-program-to-implement-the-linear-congruential-generator-for-pseudo-random-number-generation
 /**

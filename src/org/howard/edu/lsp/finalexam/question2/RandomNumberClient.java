@@ -1,5 +1,6 @@
 package org.howard.edu.lsp.finalexam.question2;
 
+
 /**
  * Client program demonstrating the use of RandomNumberService with different strategies.
  */

@@ -1,5 +1,6 @@
 package org.howard.edu.lsp.finalexam.question2;
 
+
 /**
  * Concrete strategy using a Linear Congruential Generator algorithm.
  */
